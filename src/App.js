@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Container } from 'reactstrap';
 import Navbar from './Components/Navbar';
 import axios from 'axios';
-import { API_ROOT } from './statics';
+import { API_ROOT } from './statics/index';
 // import logo from './logo.svg';
 import NewGame from './Components/NewGame';
 import PlayGame from './Components/PlayGame';
