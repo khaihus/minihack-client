@@ -1,1 +1,1 @@
-export const API_ROOT = process.env.ENVIROMENT == 'local' ? "http://localhost:6969" : "https://react-minihack.herokuapp.com";
+export const API_ROOT = process.env.ENVIROMENT == 'local' ? "http://localhost:6969" : "https://minihack-game-server.herokuapp.com";
